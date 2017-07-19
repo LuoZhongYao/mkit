@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.dat
+*~
+*.bin
+*.rar
+*.tar*
+*.tgz
